@@ -1,0 +1,16 @@
+1.What are the new tags added in HTML5?
+<article>,<aside>,<details>,<figcaption>,<figure>,<footer>,<header>,<main>
+
+2.How to embed audio and video in a webpage?
+html . Add <audio> and <video> elements to the page; make them display the default browser controls. 
+Give both of them <source> elements so that browsers will find the audio format they support best 
+and load it. These should include type attributes.
+
+3.Semantic element in HTML5?
+
+
+
+
+4.Canvas and SVG tags
+
+
